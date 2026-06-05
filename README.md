@@ -38,6 +38,7 @@ Eleven financial and performance KPIs were designed to make clubs with very diff
 | Revenue per Point | Revenue ÷ Points | Revenue efficiency vs output |
 
 ## The Dashboard
+<img width="1299" height="1299" alt="Premier League Financial   Performance Dashboard " src="https://github.com/user-attachments/assets/dc5356a4-eb8b-4410-8642-f20b34264bf2" />
 
 **Page 1 — Main dashboard:** KPI tiles plus five charts, all driven by club and season filters:
 - Wages vs Points (scatter)
@@ -45,6 +46,8 @@ Eleven financial and performance KPIs were designed to make clubs with very diff
 - Cost Per Point (bar, league-wide benchmark)
 - Wins Per Wage (bar, league-wide benchmark)
 - Revenue by League Position (line)
+
+<img width="1249" height="1259" alt="DataSet" src="https://github.com/user-attachments/assets/360a7574-c48c-4798-8e8c-466aba966ca0" />
 
 **Page 2 — Data view:** the full filterable, searchable dataset for transparency and deeper inspection.
 
